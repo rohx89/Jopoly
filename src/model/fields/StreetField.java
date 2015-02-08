@@ -63,6 +63,10 @@ public class StreetField extends BuyableField {
 		_houses = _houses + amountOfHouses;
 	}
 
+	public int getPriceForHouse() {
+		return _priceForHouse;
+	}
+
 	public int getAmountOfHouses() {
 		return _houses;
 	}
