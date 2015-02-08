@@ -27,6 +27,7 @@ public class DiceTest {
 	 */
 	@Test(expected = java.lang.AssertionError.class)
 	public void initializeDiceNegativeTest() {
+		@SuppressWarnings("unused")
 		Dice dice = new Dice(1);
 	}
 
