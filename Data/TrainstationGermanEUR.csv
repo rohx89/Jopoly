@@ -4,5 +4,6 @@ Name2;Westbahnhof
 Name3;Nordbahnhof
 Name4;Ostbahnhof
 Mortage;100
-RedemptionOfMortgage;110
+RedemptionOfMortage;110
 StartRent;25
+Price;200
