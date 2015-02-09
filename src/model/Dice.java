@@ -1,4 +1,5 @@
 package model;
+
 import static org.junit.Assert.assertTrue;
 
 import java.util.Random;
@@ -31,7 +32,7 @@ public class Dice {
 				sides > 1);
 		_sides = sides;
 		_currentValue = throwDice();
-		System.out.println("DEBUG: Dice was created");
+		Settings.LOGGER.debug("Dice was created");
 	}
 
 	/**
@@ -43,7 +44,7 @@ public class Dice {
 	public int throwDice() {
 		Random randomGenerator = new Random();
 		_currentValue = randomGenerator.nextInt(_sides - 1) + 1;
-		System.out.println("DEBUG: Dice was thrown. The value of the this is: "
+		Settings.LOGGER.debug("Dice was thrown. The value of the this is: "
 				+ _currentValue);
 		return _currentValue;
 	}

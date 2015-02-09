@@ -1,8 +1,10 @@
 package model.fields;
 
 import static org.junit.Assert.assertTrue;
+import model.Settings;
 
-public class TrainStationField extends BuyableField {
+public class TrainStationField extends BuyableField implements
+		BuyableFieldInterface {
 	private int _startRent;
 
 	public TrainStationField(int price, String name, int redemptionOfMortage,
@@ -37,7 +39,7 @@ public class TrainStationField extends BuyableField {
 			}
 
 		}
-		System.out.println("DEBUG:Rent is :" + rent);
+		Settings.LOGGER.debug("Rent is :" + rent);
 		return rent;
 	}
 }

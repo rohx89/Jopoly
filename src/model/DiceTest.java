@@ -1,4 +1,5 @@
 package model;
+
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
@@ -18,6 +19,7 @@ public class DiceTest {
 	 */
 	@Test
 	public void initializeDicePositivTest() {
+		Settings.LOGGER.info("---initializeDicePositivTest---");
 		Dice dice = new Dice(2);
 		assertNotNull("dice is Null", dice);
 		assertTrue(((dice.getCurrentValue() == 1) || (dice.getCurrentValue() == 2)));
@@ -28,6 +30,7 @@ public class DiceTest {
 	 */
 	@Test(expected = java.lang.AssertionError.class)
 	public void initializeDiceNegativeTest() {
+		Settings.LOGGER.info("---initializeDiceNegativeTest---");
 		@SuppressWarnings("unused")
 		Dice dice = new Dice(1);
 	}
@@ -37,6 +40,7 @@ public class DiceTest {
 	 */
 	@Test
 	public void throwDiceTest() {
+		Settings.LOGGER.info("---throwDiceTest---");
 		Dice dice = new Dice(6);
 		for (int timesThrown = 0; timesThrown < 1000; timesThrown++) {
 			int value = dice.throwDice();

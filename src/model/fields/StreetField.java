@@ -2,6 +2,8 @@ package model.fields;
 
 import static org.junit.Assert.assertTrue;
 
+import java.awt.Color;
+
 /**
  * A street field
  * 
@@ -22,6 +24,11 @@ public class StreetField extends BuyableField {
 	 * the price for one House
 	 */
 	private int _priceForHouse;
+	/**
+	 * position on the board
+	 */
+	private int _position;
+	private Color _color;
 
 	/**
 	 * sets all fields
@@ -37,16 +44,40 @@ public class StreetField extends BuyableField {
 	 * @param rent4Houses
 	 * @param rentHotel
 	 * @param priceHouse
+	 * @param position
+	 * @param color
+	 *            TODO
 	 */
 	public StreetField(int price, String name, int redemptionOfMortage,
 			int mortage, int rent, int rent1House, int rent2Houses,
-			int rent3Houses, int rent4Houses, int rentHotel, int priceHouse) {
+			int rent3Houses, int rent4Houses, int rentHotel, int priceHouse,
+			int position, Color color) {
 		super(price, name, redemptionOfMortage, mortage);
+		assert position > 0 : "Condition was not ok: position>0";
+		assert position <= 39 : "Condition was not ok: position<=39";
+		assert priceHouse > 0 : "Condition was not ok: priceHouse>0";
+		assert rent > 0 : "Condition was not ok: rent>0";
+		assert rent1House > 0 : "Condition was not ok: rent1House>0";
+		assert rent2Houses > 0 : "Condition was not ok: rent2Houses>0";
+		assert rent3Houses > 0 : "Condition was not ok: rent3Houses>0";
+		assert rent4Houses > 0 : "Condition was not ok: rent4Houses>0";
+		assert rentHotel > 0 : "Condition was not ok: rentHotel>0";
+		assert color != null : "Precondition not fullfilled: color";
 		_houses = 0;
 		_priceForHouse = priceHouse;
 		_rent = new int[] { rent, rent1House, rent2Houses, rent3Houses,
 				rent4Houses, rentHotel };
+		_position = position;
+		_color = color;
 
+	}
+
+	public Color getColor() {
+		return _color;
+	}
+
+	public int getPosition() {
+		return _position;
 	}
 
 	/**

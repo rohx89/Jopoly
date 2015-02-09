@@ -1,0 +1,1751 @@
+2015-02-09 21:44:44,013:INFO  ---Start CalculateRentWithMortageTest---
+2015-02-09 21:44:44,014:DEBUG Rent is :0
+2015-02-09 21:44:44,015:INFO  ---Start calculateRentOneServiceTest---
+2015-02-09 21:44:44,016:DEBUG Rent is :40
+2015-02-09 21:44:44,016:INFO  ---calculateRentAllServicesTest---
+2015-02-09 21:44:44,017:DEBUG Rent is :100
+2015-02-09 21:44:44,018:INFO  ---build0HousesTest---
+2015-02-09 21:44:44,437:INFO  ---buildMoreThan5HouseNegativTest---
+2015-02-09 21:44:44,438:INFO  ---removedHousesWithoutHousesTest---
+2015-02-09 21:44:44,438:INFO  ---calculateRentTest---
+2015-02-09 21:44:44,438:INFO  ---removeMoreThan5HouseInStepsNegativTest---
+2015-02-09 21:44:44,439:INFO  ---buildHousesPositivTest---
+2015-02-09 21:44:44,439:INFO  ---remove0HousesTest---
+2015-02-09 21:44:44,439:INFO  ---buildHousesNegativAmountTest---
+2015-02-09 21:44:44,440:INFO  ---removedHousesNegativAmountTest---
+2015-02-09 21:44:44,440:INFO  ---removeHousesPositivTest---
+2015-02-09 21:44:44,440:INFO  ---removeMoreThan5HouseNegativTestt---
+2015-02-09 21:44:44,441:INFO  ---buildMoreThan5HouseInStepsNegativTest---
+2015-02-09 21:44:44,442:INFO  ---calculateRentTest---
+2015-02-09 21:44:44,443:DEBUG Rent is :25
+2015-02-09 21:44:44,443:DEBUG Rent is :50
+2015-02-09 21:44:44,443:DEBUG Rent is :100
+2015-02-09 21:44:44,443:DEBUG Rent is :200
+2015-02-09 21:44:44,443:INFO  ---calculateRent5OwenedTrainstationsTest---
+2015-02-09 21:44:44,443:INFO  ---calculateRentwithMortageTest---
+2015-02-09 21:44:44,443:DEBUG Rent is :0
+2015-02-09 21:44:44,444:INFO  ---calculateRent0OwenedTrainstationsTest---
+2015-02-09 21:44:44,444:INFO  ---initializeDicePositivTest---
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,445:DEBUG Dice was created
+2015-02-09 21:44:44,445:INFO  ---throwDiceTest---
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,445:DEBUG Dice was created
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,445:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,446:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,447:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,448:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,449:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,450:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,451:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,452:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,453:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,454:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,455:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,456:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,457:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,458:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,460:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,461:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,462:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,463:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,464:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,465:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,466:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,467:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,468:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,469:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,470:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,471:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,472:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 5
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 1
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 4
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 2
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,473:DEBUG Dice was thrown. The value of the this is: 3
+2015-02-09 21:44:44,473:INFO  ---initializeDiceNegativeTest---
+2015-02-09 21:44:44,475:DEBUG Start parsing Settings file
+2015-02-09 21:44:44,476:DEBUG End parsing Settings file
+2015-02-09 21:44:44,476:INFO  ---Start SettingsTest---
+2015-02-09 21:44:44,476:DEBUG Start parsing Settings file
+2015-02-09 21:44:44,476:DEBUG End parsing Settings file
+2015-02-09 21:44:44,477:INFO  ---Start CheckFieldInstanceTest---
+2015-02-09 21:44:44,477:DEBUG Start parsing Board
+2015-02-09 21:44:44,477:INFO  Start parsing street  file
+2015-02-09 21:44:44,477:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 21:44:44,477:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 21:44:44,478:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 21:44:44,478:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 21:44:44,478:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 21:44:44,478:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 21:44:44,478:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 21:44:44,478:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 21:44:44,478:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 21:44:44,478:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 21:44:44,478:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 21:44:44,478:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 21:44:44,479:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 21:44:44,479:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 21:44:44,479:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 21:44:44,479:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 21:44:44,479:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 21:44:44,479:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 21:44:44,479:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 21:44:44,479:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 21:44:44,479:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 21:44:44,479:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 21:44:44,479:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 21:44:44,480:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 21:44:44,480:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 21:44:44,480:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 21:44:44,480:INFO  End parsing streed file
+2015-02-09 21:44:44,480:DEBUG Start parsing train station file
+2015-02-09 21:44:44,480:INFO  End parsing train station file
+2015-02-09 21:44:44,480:DEBUG Start parsing Service file
+2015-02-09 21:44:44,480:DEBUG End parsing Service file
+2015-02-09 22:12:09,031:DEBUG Start parsing Settings file
+2015-02-09 22:12:09,034:DEBUG End parsing Settings file
+2015-02-09 22:12:09,034:INFO  ---Start checkStreetFieldTest---
+2015-02-09 22:12:09,035:DEBUG Start parsing Board
+2015-02-09 22:12:09,036:INFO  Start parsing street  file
+2015-02-09 22:12:09,037:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:12:09,466:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:12:09,466:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:12:09,466:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:12:09,466:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:12:09,466:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:12:09,466:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:12:09,467:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:12:09,467:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:12:09,467:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:12:09,467:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:12:09,467:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:12:09,467:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:12:09,467:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:12:09,467:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:12:09,467:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:12:09,467:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:12:09,467:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:12:09,468:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:12:09,468:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:12:09,468:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:12:09,468:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:12:09,468:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:12:09,468:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:12:09,468:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:12:09,468:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:12:09,468:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:12:09,468:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:12:09,468:INFO  End parsing streed file
+2015-02-09 22:12:09,468:DEBUG Start parsing train station file
+2015-02-09 22:12:09,469:INFO  End parsing train station file
+2015-02-09 22:12:09,469:DEBUG Start parsing Service file
+2015-02-09 22:12:09,470:DEBUG End parsing Service file
+2015-02-09 22:12:09,473:DEBUG Start parsing Settings file
+2015-02-09 22:12:09,474:DEBUG End parsing Settings file
+2015-02-09 22:12:09,474:INFO  ---Start CheckBoardSizeTest---
+2015-02-09 22:12:09,474:DEBUG Start parsing Board
+2015-02-09 22:12:09,474:INFO  Start parsing street  file
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:12:09,474:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:12:09,474:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:12:09,474:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:12:09,474:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:12:09,474:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:12:09,474:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:12:09,474:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:12:09,474:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:12:09,474:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:12:09,475:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:12:09,475:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:12:09,475:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:12:09,475:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:12:09,475:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:12:09,475:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:12:09,475:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:12:09,475:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:12:09,475:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:12:09,475:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:12:09,475:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:12:09,475:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:12:09,475:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:12:09,476:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:12:09,476:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:12:09,476:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:12:09,476:INFO  End parsing streed file
+2015-02-09 22:12:09,476:DEBUG Start parsing train station file
+2015-02-09 22:12:09,476:INFO  End parsing train station file
+2015-02-09 22:12:09,476:DEBUG Start parsing Service file
+2015-02-09 22:12:09,476:DEBUG End parsing Service file
+2015-02-09 22:12:09,476:DEBUG Start parsing Settings file
+2015-02-09 22:12:09,476:DEBUG End parsing Settings file
+2015-02-09 22:12:09,476:INFO  ---Start SettingsTest---
+2015-02-09 22:12:09,477:DEBUG Start parsing Settings file
+2015-02-09 22:12:09,477:DEBUG End parsing Settings file
+2015-02-09 22:12:09,477:INFO  ---Start CheckFieldInstanceTest---
+2015-02-09 22:12:09,477:DEBUG Start parsing Board
+2015-02-09 22:12:09,477:INFO  Start parsing street  file
+2015-02-09 22:12:09,477:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:12:09,477:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:12:09,477:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:12:09,477:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:12:09,477:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:12:09,477:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:12:09,477:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:12:09,478:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:12:09,478:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:12:09,478:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:12:09,478:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:12:09,478:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:12:09,478:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:12:09,478:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:12:09,478:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:12:09,478:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:12:09,478:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:12:09,478:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:12:09,478:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:12:09,478:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:12:09,478:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:12:09,478:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:12:09,479:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:12:09,479:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:12:09,479:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:12:09,479:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:12:09,479:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:12:09,479:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:12:09,479:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:12:09,479:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:12:09,479:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:12:09,479:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:12:09,479:INFO  End parsing streed file
+2015-02-09 22:12:09,479:DEBUG Start parsing train station file
+2015-02-09 22:12:09,479:INFO  End parsing train station file
+2015-02-09 22:12:09,479:DEBUG Start parsing Service file
+2015-02-09 22:12:09,479:DEBUG End parsing Service file
+2015-02-09 22:18:52,804:DEBUG Start parsing Settings file
+2015-02-09 22:18:52,805:DEBUG End parsing Settings file
+2015-02-09 22:18:52,805:INFO  ---Start checkStreetFieldTest---
+2015-02-09 22:18:52,805:DEBUG Start parsing Board
+2015-02-09 22:18:52,805:INFO  Start parsing street  file
+2015-02-09 22:18:52,805:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:18:52,981:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:18:52,981:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:18:52,981:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:18:52,982:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:18:52,982:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:18:52,982:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:18:52,982:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:18:52,982:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:18:52,982:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:18:52,982:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:18:52,982:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:18:52,982:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:18:52,983:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:18:52,983:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:18:52,983:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:18:52,983:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:18:52,983:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:18:52,983:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:18:52,983:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:18:52,983:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:18:52,983:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:18:52,983:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:18:52,983:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:18:52,983:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:18:52,983:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:18:52,983:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:18:52,983:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:18:52,984:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:18:52,984:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:18:52,984:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:18:52,984:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:18:52,984:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:18:52,984:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:18:52,984:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:18:52,984:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:18:52,984:INFO  End parsing streed file
+2015-02-09 22:18:52,984:DEBUG Start parsing train station file
+2015-02-09 22:18:52,988:INFO  End parsing train station file
+2015-02-09 22:18:52,988:DEBUG Start parsing Service file
+2015-02-09 22:18:52,994:DEBUG End parsing Service file
+2015-02-09 22:18:53,002:DEBUG Start parsing Settings file
+2015-02-09 22:18:53,003:DEBUG End parsing Settings file
+2015-02-09 22:18:53,003:INFO  ---Start CheckBoardSizeTest---
+2015-02-09 22:18:53,003:DEBUG Start parsing Board
+2015-02-09 22:18:53,003:INFO  Start parsing street  file
+2015-02-09 22:18:53,003:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:18:53,003:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:18:53,003:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:18:53,003:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:18:53,003:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:18:53,003:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:18:53,004:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:18:53,004:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:18:53,004:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:18:53,004:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:18:53,004:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:18:53,004:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:18:53,004:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:18:53,004:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:18:53,004:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:18:53,004:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:18:53,004:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:18:53,004:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:18:53,004:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:18:53,005:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:18:53,005:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:18:53,005:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:18:53,005:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:18:53,005:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:18:53,005:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:18:53,005:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:18:53,005:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:18:53,005:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:18:53,006:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:18:53,006:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:18:53,006:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:18:53,006:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:18:53,006:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:18:53,006:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:18:53,006:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:18:53,007:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:18:53,007:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:18:53,007:INFO  End parsing streed file
+2015-02-09 22:18:53,007:DEBUG Start parsing train station file
+2015-02-09 22:18:53,007:INFO  End parsing train station file
+2015-02-09 22:18:53,008:DEBUG Start parsing Service file
+2015-02-09 22:18:53,008:DEBUG End parsing Service file
+2015-02-09 22:18:53,011:DEBUG Start parsing Settings file
+2015-02-09 22:18:53,011:DEBUG End parsing Settings file
+2015-02-09 22:18:53,011:INFO  ---Start SettingsTest---
+2015-02-09 22:18:53,012:DEBUG Start parsing Settings file
+2015-02-09 22:18:53,013:DEBUG End parsing Settings file
+2015-02-09 22:18:53,013:INFO  ---Start CheckFieldInstanceTest---
+2015-02-09 22:18:53,013:DEBUG Start parsing Board
+2015-02-09 22:18:53,013:INFO  Start parsing street  file
+2015-02-09 22:18:53,013:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:18:53,013:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:18:53,013:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:18:53,014:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:18:53,014:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:18:53,014:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:18:53,014:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:18:53,014:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:18:53,014:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:18:53,014:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:18:53,014:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:18:53,014:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:18:53,014:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:18:53,014:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:18:53,014:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:18:53,014:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:18:53,014:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:18:53,014:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:18:53,015:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:18:53,015:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:18:53,015:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:18:53,015:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:18:53,015:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:18:53,015:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:18:53,015:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:18:53,015:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:18:53,015:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:18:53,015:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:18:53,015:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:18:53,015:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:18:53,015:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:18:53,015:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:18:53,015:INFO  End parsing streed file
+2015-02-09 22:18:53,015:DEBUG Start parsing train station file
+2015-02-09 22:18:53,016:INFO  End parsing train station file
+2015-02-09 22:18:53,016:DEBUG Start parsing Service file
+2015-02-09 22:18:53,016:DEBUG End parsing Service file
+2015-02-09 22:24:28,688:DEBUG Start parsing Settings file
+2015-02-09 22:24:28,689:DEBUG End parsing Settings file
+2015-02-09 22:24:28,689:INFO  ---Start checkStreetFieldTest---
+2015-02-09 22:24:28,689:DEBUG Start parsing Board
+2015-02-09 22:24:28,690:INFO  Start parsing street  file
+2015-02-09 22:24:28,690:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:24:29,099:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:24:29,099:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:24:29,099:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:24:29,099:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:24:29,099:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:24:29,099:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:24:29,099:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:24:29,099:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:24:29,099:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:24:29,100:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:24:29,100:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:24:29,100:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:24:29,100:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:24:29,100:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:24:29,100:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:24:29,100:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:24:29,100:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:24:29,100:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:24:29,100:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:24:29,100:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:24:29,100:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:24:29,101:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:24:29,101:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:24:29,101:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:24:29,101:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:24:29,101:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:24:29,101:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:24:29,101:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:24:29,101:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:24:29,101:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:24:29,101:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:24:29,101:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:24:29,101:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:24:29,102:INFO  End parsing streed file
+2015-02-09 22:24:29,102:DEBUG Start parsing train station file
+2015-02-09 22:24:29,103:INFO  End parsing train station file
+2015-02-09 22:24:29,103:DEBUG Start parsing Service file
+2015-02-09 22:24:29,104:DEBUG End parsing Service file
+2015-02-09 22:24:29,109:DEBUG Start parsing Settings file
+2015-02-09 22:24:29,109:DEBUG End parsing Settings file
+2015-02-09 22:24:29,109:INFO  ---Start CheckBoardSizeTest---
+2015-02-09 22:24:29,109:DEBUG Start parsing Board
+2015-02-09 22:24:29,109:INFO  Start parsing street  file
+2015-02-09 22:24:29,109:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:24:29,109:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:24:29,109:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:24:29,110:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:24:29,110:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:24:29,110:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:24:29,110:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:24:29,110:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:24:29,110:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:24:29,110:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:24:29,110:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:24:29,110:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:24:29,110:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:24:29,110:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:24:29,110:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:24:29,111:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:24:29,111:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:24:29,111:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:24:29,111:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:24:29,111:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:24:29,111:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:24:29,111:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:24:29,111:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:24:29,111:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:24:29,111:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:24:29,111:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:24:29,111:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:24:29,111:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:24:29,111:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:24:29,111:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:24:29,112:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:24:29,112:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:24:29,112:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:24:29,112:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:24:29,112:INFO  End parsing streed file
+2015-02-09 22:24:29,112:DEBUG Start parsing train station file
+2015-02-09 22:24:29,112:INFO  End parsing train station file
+2015-02-09 22:24:29,112:DEBUG Start parsing Service file
+2015-02-09 22:24:29,112:DEBUG End parsing Service file
+2015-02-09 22:24:29,113:DEBUG Start parsing Settings file
+2015-02-09 22:24:29,113:DEBUG End parsing Settings file
+2015-02-09 22:24:29,113:INFO  ---Start SettingsTest---
+2015-02-09 22:24:29,113:DEBUG Start parsing Settings file
+2015-02-09 22:24:29,114:DEBUG End parsing Settings file
+2015-02-09 22:24:29,114:INFO  ---Start CheckFieldInstanceTest---
+2015-02-09 22:24:29,114:DEBUG Start parsing Board
+2015-02-09 22:24:29,114:INFO  Start parsing street  file
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:24:29,114:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:24:29,114:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:24:29,114:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:24:29,114:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:24:29,114:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:24:29,114:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:24:29,114:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:24:29,114:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:24:29,114:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:24:29,114:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:24:29,115:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:24:29,115:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:24:29,115:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:24:29,115:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:24:29,115:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:24:29,116:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:24:29,116:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:24:29,116:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:24:29,116:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:24:29,116:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:24:29,116:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:24:29,116:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:24:29,116:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:24:29,116:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:24:29,117:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:24:29,117:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:24:29,117:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:24:29,117:INFO  End parsing streed file
+2015-02-09 22:24:29,117:DEBUG Start parsing train station file
+2015-02-09 22:24:29,117:INFO  End parsing train station file
+2015-02-09 22:24:29,117:DEBUG Start parsing Service file
+2015-02-09 22:24:29,117:DEBUG End parsing Service file
+2015-02-09 22:25:30,557:DEBUG Start parsing Settings file
+2015-02-09 22:25:30,558:DEBUG End parsing Settings file
+2015-02-09 22:25:30,558:INFO  ---Start checkStreetFieldTest---
+2015-02-09 22:25:30,559:DEBUG Start parsing Board
+2015-02-09 22:25:30,559:INFO  Start parsing street  file
+2015-02-09 22:25:30,559:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:25:30,754:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:25:30,754:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:25:30,754:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:25:30,754:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:25:30,754:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:25:30,754:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:25:30,754:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:25:30,754:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:25:30,755:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:25:30,755:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:25:30,755:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:25:30,755:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:25:30,755:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:25:30,755:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:25:30,755:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:25:30,755:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:25:30,755:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:25:30,755:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:25:30,755:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:25:30,755:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:25:30,755:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:25:30,756:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:25:30,756:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:25:30,756:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:25:30,756:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:25:30,756:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:25:30,756:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:25:30,756:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:25:30,756:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:25:30,756:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:25:30,757:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:25:30,757:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:25:30,757:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:25:30,757:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:25:30,757:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:25:30,758:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:25:30,758:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:25:30,758:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:25:30,758:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:25:30,758:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:25:30,759:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:25:30,759:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:25:30,759:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:25:30,759:INFO  End parsing streed file
+2015-02-09 22:25:30,759:DEBUG Start parsing train station file
+2015-02-09 22:25:30,761:INFO  End parsing train station file
+2015-02-09 22:25:30,761:DEBUG Start parsing Service file
+2015-02-09 22:25:30,763:DEBUG End parsing Service file
+2015-02-09 22:25:30,763:DEBUG Start parsing Settings file
+2015-02-09 22:25:30,764:DEBUG End parsing Settings file
+2015-02-09 22:25:30,764:INFO  ---Start CheckBoardSizeTest---
+2015-02-09 22:25:30,764:DEBUG Start parsing Board
+2015-02-09 22:25:30,764:INFO  Start parsing street  file
+2015-02-09 22:25:30,764:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:25:30,764:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:25:30,764:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:25:30,764:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:25:30,764:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:25:30,764:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:25:30,764:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:25:30,764:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:25:30,764:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:25:30,764:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:25:30,764:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:25:30,765:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:25:30,765:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:25:30,765:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:25:30,765:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:25:30,765:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:25:30,765:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:25:30,765:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:25:30,765:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:25:30,765:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:25:30,765:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:25:30,765:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:25:30,765:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:25:30,766:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:25:30,766:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:25:30,766:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:25:30,766:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:25:30,766:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:25:30,766:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:25:30,766:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:25:30,766:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:25:30,766:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:25:30,766:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:25:30,766:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:25:30,766:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:25:30,766:INFO  End parsing streed file
+2015-02-09 22:25:30,766:DEBUG Start parsing train station file
+2015-02-09 22:25:30,766:INFO  End parsing train station file
+2015-02-09 22:25:30,767:DEBUG Start parsing Service file
+2015-02-09 22:25:30,767:DEBUG End parsing Service file
+2015-02-09 22:25:30,767:DEBUG Start parsing Settings file
+2015-02-09 22:25:30,767:DEBUG End parsing Settings file
+2015-02-09 22:25:30,767:INFO  ---Start SettingsTest---
+2015-02-09 22:25:30,768:DEBUG Start parsing Settings file
+2015-02-09 22:25:30,768:DEBUG End parsing Settings file
+2015-02-09 22:25:30,768:INFO  ---Start CheckFieldInstanceTest---
+2015-02-09 22:25:30,768:DEBUG Start parsing Board
+2015-02-09 22:25:30,768:INFO  Start parsing street  file
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+2015-02-09 22:25:30,768:INFO   Street from String:black;Badstraße;60;50;2;10;30;90;160;250;30;33;1 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+2015-02-09 22:25:30,768:INFO   Street from String:black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+2015-02-09 22:25:30,768:INFO   Street from String:cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+2015-02-09 22:25:30,768:INFO   Street from String:cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+2015-02-09 22:25:30,768:INFO   Street from String:cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+2015-02-09 22:25:30,768:INFO   Street from String:magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+2015-02-09 22:25:30,768:INFO   Street from String:magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+2015-02-09 22:25:30,768:INFO   Street from String:magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+2015-02-09 22:25:30,768:INFO   Street from String:orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16 was created correctly
+2015-02-09 22:25:30,768:INFO  Start creating Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+2015-02-09 22:25:30,769:INFO   Street from String:orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18 was created correctly
+2015-02-09 22:25:30,769:INFO  Start creating Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+2015-02-09 22:25:30,769:INFO   Street from String:orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19 was created correctly
+2015-02-09 22:25:30,769:INFO  Start creating Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+2015-02-09 22:25:30,769:INFO   Street from String:red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21 was created correctly
+2015-02-09 22:25:30,769:INFO  Start creating Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+2015-02-09 22:25:30,769:INFO   Street from String:red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23 was created correctly
+2015-02-09 22:25:30,769:INFO  Start creating Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+2015-02-09 22:25:30,769:INFO   Street from String:red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24 was created correctly
+2015-02-09 22:25:30,769:INFO  Start creating Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+2015-02-09 22:25:30,769:INFO   Street from String:yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26 was created correctly
+2015-02-09 22:25:30,769:INFO  Start creating Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+2015-02-09 22:25:30,769:INFO   Street from String:yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27 was created correctly
+2015-02-09 22:25:30,769:INFO  Start creating Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+2015-02-09 22:25:30,770:INFO   Street from String:yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29 was created correctly
+2015-02-09 22:25:30,770:INFO  Start creating Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+2015-02-09 22:25:30,770:INFO   Street from String:green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31 was created correctly
+2015-02-09 22:25:30,770:INFO  Start creating Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+2015-02-09 22:25:30,770:INFO   Street from String:green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32 was created correctly
+2015-02-09 22:25:30,770:INFO  Start creating Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+2015-02-09 22:25:30,770:INFO   Street from String:green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34 was created correctly
+2015-02-09 22:25:30,770:INFO  Start creating Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+2015-02-09 22:25:30,770:INFO   Street from String:blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37 was created correctly
+2015-02-09 22:25:30,770:INFO  Start creating Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
+2015-02-09 22:25:30,770:INFO   Street from String:blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39 was created correctly
+2015-02-09 22:25:30,770:INFO  End parsing streed file
+2015-02-09 22:25:30,770:DEBUG Start parsing train station file
+2015-02-09 22:25:30,770:INFO  End parsing train station file
+2015-02-09 22:25:30,770:DEBUG Start parsing Service file
+2015-02-09 22:25:30,771:DEBUG End parsing Service file

@@ -1,6 +1,6 @@
 color;Street;Price;PriceHouses;Rent;Rent1House;Rent2House;Rent3House;Rent4House;RentHotel;Mortage;RedemptionOfMortgage;Position
-black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
-black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+brown;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+brown;Turmstraße;60;50;4;20;60;180;320;450;30;33:3
 cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
 cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
 cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9

@@ -8,7 +8,7 @@ import static org.junit.Assert.assertTrue;
  * @author rohx89
  *
  */
-abstract class BuyableField {
+abstract class BuyableField implements BuyableFieldInterface {
 	/**
 	 * price for the field
 	 */

@@ -1,6 +1,7 @@
 package model.fields;
 
 import static org.junit.Assert.assertTrue;
+import model.Settings;
 
 /**
  * A Service Field
@@ -47,7 +48,7 @@ public class ServiceField extends BuyableField {
 				rent = valueOfDice * _factor1;
 			}
 		}
-		System.out.println("DEBUG:Rent is :" + rent);
+		Settings.LOGGER.debug("Rent is :" + rent);
 		return rent;
 	}
 }
