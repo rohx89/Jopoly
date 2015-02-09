@@ -79,7 +79,7 @@ public class ParserPositivTest {
 
 	@Test
 	/**
-	 * Checks whether all properties of one StreetField are correct
+	 * Checks whether all properties of one {@link StreetField} are correct
 	 */
 	public void checkStreetFieldTest() throws ParserException {
 		Settings.LOGGER.info("---Start checkStreetFieldTest---");
@@ -103,5 +103,35 @@ public class ParserPositivTest {
 		assertEquals("RedemptionOfMortage is wrong", 154,
 				field.getRedemptionOfMortage());
 
+	}
+
+	@Test
+	/**
+	 * Checks whether all properties of one {@link StreetField} are correct
+	 */
+	public void checkTrainStationFieldTest() throws ParserException {
+		Settings.LOGGER.info("---checkTrainStationFieldTest---");
+		TrainStationField field = (TrainStationField) _parser.parseBoardFiles()[25];
+		assertEquals("Name is wrong", field.getName(), "Nordbahnhof");
+		assertEquals("Mortage is wrong", field.getMortage(), 100);
+		assertEquals("RedemptionOfMortage is wrong",
+				field.getRedemptionOfMortage(), 110);
+		assertEquals("StartRent is wrong", field.calculateRent(1), 25);
+		assertEquals("Price is wrong", field.getPrice(), 200);
+	}
+
+	@Test
+	/**
+	 * Checks whether all properties of one {@link ServiceField} are correct
+	 */
+	public void checkServiceFieldTest() throws ParserException {
+		Settings.LOGGER.info("---checkServiceFieldTest---");
+		ServiceField field = (ServiceField) _parser.parseBoardFiles()[28];
+		assertEquals("Name is wrong", field.getName(), "Wasserwerk");
+		assertEquals("Mortage is wrong", field.getMortage(), 75);
+		assertEquals("RedemptionOfMortage is wrong", 82,
+				field.getRedemptionOfMortage());
+		assertEquals("StartRent is wrong", field.calculateRent(false, 12), 48);
+		assertEquals("Price is wrong", field.getPrice(), 150);
 	}
 }
