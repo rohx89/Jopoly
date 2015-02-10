@@ -3,7 +3,7 @@ package model.fields;
 import static org.junit.Assert.assertTrue;
 import model.Settings;
 
-public class TrainStationField extends BuyableField implements
+public class TrainStationField extends AbstractBuyableField implements
 		BuyableFieldInterface {
 	private int _startRent;
 

@@ -9,7 +9,7 @@ import model.Settings;
  * @author rohx89
  *
  */
-public class ServiceField extends BuyableField {
+public class ServiceField extends AbstractBuyableField {
 	/**
 	 * is used to calculate the rent, if only one service is owned
 	 */

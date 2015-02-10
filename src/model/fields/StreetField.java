@@ -10,7 +10,7 @@ import java.awt.Color;
  * @author rohx89
  *
  */
-public class StreetField extends BuyableField {
+public class StreetField extends AbstractBuyableField {
 	/**
 	 * contains the rent 0->normal rent 1->rent for 1 house ... 5->rent for
 	 * motel
