@@ -1,7 +1,5 @@
 package service;
 
-import static org.junit.Assert.assertTrue;
-
 import java.awt.Color;
 import java.io.BufferedReader;
 import java.io.File;
@@ -38,8 +36,7 @@ public class Parser {
 		Settings.LOGGER.debug("Start parsing Settings file");
 		BufferedReader reader = null;
 		try {
-			reader = new BufferedReader(new FileReader(new File(
-					"./Data/Settings.csv")));
+			reader = new BufferedReader(new FileReader(new File("./Data/Settings.csv")));
 			String currentLine = reader.readLine();
 			int lineNumber = 1;
 			while ((currentLine = reader.readLine()) != null) {
@@ -47,8 +44,7 @@ public class Parser {
 				// split line
 				String[] splitedLine = currentLine.split(";");
 				if (splitedLine.length != 2) {
-					Settings.LOGGER.error("Wrong number of properties in line "
-							+ lineNumber
+					Settings.LOGGER.error("Wrong number of properties in line " + lineNumber
 							+ ". Only Key and one value are allowed");
 					throw new ParserException();
 				}
@@ -56,46 +52,49 @@ public class Parser {
 				String value = splitedLine[1];
 
 				switch (key) {
-				case "InitialMoney":
-					Settings.setInitialMoney(Integer.parseInt(value));
-					break;
-				case "Currency":
-					Settings.setCurreny(value);
-					break;
-				case "Board":
-					Settings.setBoard(value);
-					break;
-				case "StartMoney":
-					Settings.setStartMoney(Integer.parseInt(value));
-					break;
-				default:
-					Settings.LOGGER
-							.error("Invalid Key was found in settings file: "
-									+ key);
-					throw new ParserException();
+					case "InitialMoney":
+						Settings.setInitialMoney(Integer.parseInt(value));
+						break;
+					case "Currency":
+						Settings.setCurreny(value);
+						break;
+					case "Board":
+						Settings.setBoard(value);
+						break;
+					case "StartMoney":
+						Settings.setStartMoney(Integer.parseInt(value));
+						break;
+					default:
+						Settings.LOGGER.error("Invalid Key was found in settings file: " + key);
+						throw new ParserException();
 				}
 			}
 
 			// check whether Settings are correct
-			if (lineNumber != 5 || Settings.BOARD == null
-					|| Settings.CURRENCY == null || Settings.INITIAL_MONEY < 1
+			if (lineNumber != 5 || Settings.BOARD == null || Settings.CURRENCY == null || Settings.INITIAL_MONEY < 1
 					|| Settings.START_MONEY < 1) {
+				Settings.LOGGER
+						.error("Setting file has wrong amount of lines or (board or currency or initial or money or startmoney was not read coorectly");
 				throw new ParserException();
 			}
 
-		} catch (FileNotFoundException e) {
+		}
+		catch (FileNotFoundException e) {
 
 			Settings.LOGGER.error("Settings file not found");
 			throw new ParserException();
 
-		} catch (IOException e) {
+		}
+		catch (IOException e) {
 			Settings.LOGGER.error("IO Exception in SettingsFile occured");
 			throw new ParserException();
-		} finally {
+		}
+		finally {
 			if (reader != null) {
 				try {
 					reader.close();
-				} catch (IOException e) {
+				}
+				catch (IOException e) {
 					Settings.LOGGER.error("Could not Close Reader");
 					throw new ParserException();
 
@@ -117,9 +116,9 @@ public class Parser {
 	public BuyableFieldInterface[] parseBoardFiles() throws ParserException {
 		Settings.LOGGER.debug("Start parsing Board");
 		BuyableFieldInterface[] board = new BuyableFieldInterface[40];
-		parseStreetFile(board);
 		parseTrainStationFile(board);
 		parseServiceFile(board);
+		parseStreetFile(board);
 		return board;
 	}
 
@@ -129,15 +128,13 @@ public class Parser {
 	 * @param board
 	 * @throws IOException
 	 */
-	private void parseServiceFile(BuyableFieldInterface[] board)
-			throws ParserException {
+	private void parseServiceFile(BuyableFieldInterface[] board) throws ParserException {
 		Settings.LOGGER.debug("Start parsing Service file");
 		BufferedReader reader = null;
 		try {
 
 			// Create reader
-			reader = new BufferedReader(new FileReader(new File(
-					"./Data/ServiceFields" + Settings.BOARD + ".csv")));
+			reader = new BufferedReader(new FileReader(new File("./Data/ServiceFields" + Settings.BOARD + ".csv")));
 
 			String currentLine = reader.readLine();
 			int lineCounter = 1;
@@ -154,37 +151,40 @@ public class Parser {
 				++lineCounter;
 				// Split line
 				String[] splitedLine = currentLine.split(";");
-				assertTrue("Condition was not ok:splitedLine.length==2",
-						splitedLine.length == 2);
+				if (splitedLine.length != 2) {
+					Settings.LOGGER.error("Line " + lineCounter + " has " + splitedLine.length
+							+ " instead of 2 Properties");
+					throw new ParserException();
+				}
 				String key = splitedLine[0];
 				String value = splitedLine[1];
 
 				switch (key) {
-				case "Name1":
-					name1 = value;
-					break;
+					case "Name1":
+						name1 = value;
+						break;
 
-				case "Name2":
-					name2 = value;
-					break;
-				case "Price":
-					price = Integer.parseInt(value);
-					break;
-				case "Mortage":
-					mortage = Integer.parseInt(value);
-					break;
-				case "RedemptionOfMortage":
-					redemptionOfMortage = Integer.parseInt(value);
-					break;
-				case "Factor1":
-					factor1 = Integer.parseInt(value);
-					break;
-				case "Factor2":
-					factor2 = Integer.parseInt(value);
-					break;
-				default:
-					Settings.LOGGER.error("Invalid Key was found: " + key);
-					throw new ParserException();
+					case "Name2":
+						name2 = value;
+						break;
+					case "Price":
+						price = Integer.parseInt(value);
+						break;
+					case "Mortage":
+						mortage = Integer.parseInt(value);
+						break;
+					case "RedemptionOfMortage":
+						redemptionOfMortage = Integer.parseInt(value);
+						break;
+					case "Factor1":
+						factor1 = Integer.parseInt(value);
+						break;
+					case "Factor2":
+						factor2 = Integer.parseInt(value);
+						break;
+					default:
+						Settings.LOGGER.error("Invalid Key was found: " + key);
+						throw new ParserException();
 				}
 			}
 
@@ -192,24 +192,25 @@ public class Parser {
 				Settings.LOGGER.error("Servcice file must contain 8 lines!!");
 				throw new IOException();
 			}
-			board[12] = new ServiceField(price, name1, redemptionOfMortage,
-					mortage, factor1, factor2);
-			board[28] = new ServiceField(price, name2, redemptionOfMortage,
-					mortage, factor1, factor2);
+			board[12] = new ServiceField(price, name1, redemptionOfMortage, mortage, factor1, factor2);
+			board[28] = new ServiceField(price, name2, redemptionOfMortage, mortage, factor1, factor2);
 
-		} catch (FileNotFoundException e) {
+		}
+		catch (FileNotFoundException e) {
 			Settings.LOGGER.error("ServiceFieldFile not found");
 			throw new ParserException();
-		} catch (IOException e) {
-			Settings.LOGGER
-					.error("IO Exception occured while parsing ServiceFile");
+		}
+		catch (IOException e) {
+			Settings.LOGGER.error("IO Exception occured while parsing ServiceFile");
 			throw new ParserException();
-		} finally {
+		}
+		finally {
 
 			if (reader != null) {
 				try {
 					reader.close();
-				} catch (IOException e) {
+				}
+				catch (IOException e) {
 					Settings.LOGGER.error("Could not Close Reader");
 					throw new ParserException();
 				}
@@ -226,15 +227,13 @@ public class Parser {
 	 * @throws IOException
 	 * @require board!=null
 	 */
-	private void parseTrainStationFile(BuyableFieldInterface[] board)
-			throws ParserException {
+	private void parseTrainStationFile(BuyableFieldInterface[] board) throws ParserException {
 		assert board != null : "Precondition not fullfilled: board";
 		BufferedReader reader = null;
 		try {
 			Settings.LOGGER.debug("Start parsing train station file");
 			// Set up Reader
-			reader = new BufferedReader(new FileReader(new File(
-					"./Data/Trainstation" + Settings.BOARD + ".csv")));
+			reader = new BufferedReader(new FileReader(new File("./Data/Trainstation" + Settings.BOARD + ".csv")));
 			String currentLine = reader.readLine();
 			int lineCounter = 1;
 
@@ -250,75 +249,72 @@ public class Parser {
 				++lineCounter;
 				String[] splitedLines = currentLine.split(";");
 				if (splitedLines.length != 2) {
-					Settings.LOGGER.error("Wrong number of properties in line "
-							+ splitedLines.length + ":" + currentLine
-							+ ". Only Key and one value are allowed");
+					Settings.LOGGER.error("Wrong number of properties in line " + splitedLines.length + ":"
+							+ currentLine + ". Only Key and one value are allowed");
 					throw new ParserException();
 				}
 				String key = splitedLines[0];
 				String value = splitedLines[1];
 				switch (key) {
-				case "Name1":
-					names[0] = value;
-					break;
-				case "Name2":
-					names[1] = value;
-					break;
-				case "Name3":
-					names[2] = value;
-					break;
-				case "Name4":
-					names[3] = value;
-					break;
-				case "Mortage":
-					mortag = Integer.parseInt(value);
-					break;
-				case "RedemptionOfMortage":
-					redemptionOfMortage = Integer.parseInt(value);
-					break;
-				case "StartRent":
-					startRent = Integer.parseInt(value);
-					break;
-				case "Price":
-					price = Integer.parseInt(value);
-					break;
-				default:
-					Settings.LOGGER.error("Invalid Key was found: " + key);
-					throw new ParserException();
+					case "Name1":
+						names[0] = value;
+						break;
+					case "Name2":
+						names[1] = value;
+						break;
+					case "Name3":
+						names[2] = value;
+						break;
+					case "Name4":
+						names[3] = value;
+						break;
+					case "Mortage":
+						mortag = Integer.parseInt(value);
+						break;
+					case "RedemptionOfMortage":
+						redemptionOfMortage = Integer.parseInt(value);
+						break;
+					case "StartRent":
+						startRent = Integer.parseInt(value);
+						break;
+					case "Price":
+						price = Integer.parseInt(value);
+						break;
+					default:
+						Settings.LOGGER.error("Invalid Key was found: " + key);
+						throw new ParserException();
 				}
 			}
 			if (lineCounter != 9) {
-				Settings.LOGGER
-						.error("Train Station file must contain 9 lines!!");
+				Settings.LOGGER.error("Train Station file must contain 9 lines!!");
 				throw new ParserException();
 			}
 			int position = 5;
 			for (String name : names) {
 				// Check whether file was correct
-				if (name.equals(null) || mortag < 0 || redemptionOfMortage < 0
-						|| startRent < 0 || price < 0) {
-					Settings.LOGGER
-							.error("Trainstation file contains an mistake");
+				if (name.equals(null) || mortag < 0 || redemptionOfMortage < 0 || startRent < 0 || price < 0) {
+					Settings.LOGGER.error("Trainstation file contains an mistake");
 					throw new ParserException();
 				}
-				board[position] = new TrainStationField(price, name,
-						redemptionOfMortage, mortag, startRent);
+				board[position] = new TrainStationField(price, name, redemptionOfMortage, mortag, startRent);
 				position = position + 10;
 			}
 
-		} catch (FileNotFoundException e) {
-			Settings.LOGGER
-					.error("IO Exception occured while parsing Train station File");
+		}
+		catch (FileNotFoundException e) {
+			Settings.LOGGER.error("Trainstation file was not found");
 			throw new ParserException();
-		} catch (IOException e) {
-			Settings.LOGGER
-					.error("IO Exception occured while parsing Train station File");
+		}
+		catch (IOException e) {
+			Settings.LOGGER.error("IO Exception occured while parsing Train station File");
 			throw new ParserException();
-		} finally {
+		}
+		finally {
 			if (reader != null) {
 				try {
 					reader.close();
-				} catch (IOException e) {
+				}
+				catch (IOException e) {
 					Settings.LOGGER.error("Could not close reader");
 					throw new ParserException();
 				}
@@ -336,14 +332,12 @@ public class Parser {
 	 * @throws IOException
 	 * @requires board!=null
 	 */
-	private void parseStreetFile(BuyableFieldInterface[] board)
-			throws ParserException {
+	private void parseStreetFile(BuyableFieldInterface[] board) throws ParserException {
 		assert board != null : "Precondition not fullfilled: board=null";
 		Settings.LOGGER.info("Start parsing street  file");
 		BufferedReader reader = null;
 		try {
-			reader = new BufferedReader(new FileReader(new File(
-					"./Data/Streets" + Settings.BOARD + ".csv")));
+			reader = new BufferedReader(new FileReader(new File("./Data/Streets" + Settings.BOARD + ".csv")));
 			String currentLine = reader.readLine();
 			int lineCounter = 1;
 			while ((currentLine = reader.readLine()) != null) {
@@ -355,18 +349,21 @@ public class Parser {
 				Settings.LOGGER.error("Streets file must have 23 Lines");
 				throw new IOException();
 			}
-		} catch (FileNotFoundException e) {
+		}
+		catch (FileNotFoundException e) {
 			Settings.LOGGER.error("Streets file not found");
 			throw new ParserException();
-		} catch (IOException e) {
-			Settings.LOGGER
-					.error("IOException occured while parsing the street file");
+		}
+		catch (IOException e) {
+			Settings.LOGGER.error("IOException occured while parsing the street file");
 			throw new ParserException();
-		} finally {
+		}
+		finally {
 			if (reader != null) {
 				try {
 					reader.close();
-				} catch (IOException e) {
+				}
+				catch (IOException e) {
 					Settings.LOGGER.debug("Could not close Reader");
 					throw new ParserException();
 				}
@@ -389,26 +386,22 @@ public class Parser {
 	 * @return {@link StreetField}
 	 * @throws IOException
 	 */
-	private StreetField stringToStreet(String currentLine)
-			throws ParserException {
+	private StreetField stringToStreet(String currentLine) throws ParserException {
 		assert currentLine != null : "Precondition not fullfilled: currentLine";
-		Settings.LOGGER
-				.info("Start creating Street from String:" + currentLine);
+		Settings.LOGGER.info("Start creating Street from String:" + currentLine);
 		// get each property
 		String[] values = currentLine.split(";");
 		// check amount of properties
 		if (values.length != 13) {
-			Settings.LOGGER.error("Line:" + currentLine
-					+ " has the wrong amount of properties.");
+			Settings.LOGGER.error("Line:" + currentLine + " has the wrong amount of properties.");
 			throw new ParserException();
 		}
 		// get needed parameters
 		Color color = null;
 		try {
-			color = (Color) Class.forName("java.awt.Color").getField(values[0])
-					.get(null);
-		} catch (IllegalArgumentException | IllegalAccessException
-				| NoSuchFieldException | SecurityException
+			color = (Color) Class.forName("java.awt.Color").getField(values[0]).get(null);
+		}
+		catch (IllegalArgumentException | IllegalAccessException | NoSuchFieldException | SecurityException
 				| ClassNotFoundException e) {
 
 			Settings.LOGGER.error(values[0] + " is not a color");
@@ -427,11 +420,9 @@ public class Parser {
 		int redemptionOfMortage = Integer.parseInt(values[11]);
 		int position = Integer.parseInt(values[12]);
 
-		StreetField result = new StreetField(price, name, redemptionOfMortage,
-				mortage, rent[0], rent[1], rent[2], rent[3], rent[4], rent[5],
-				priceHouse, position, color);
-		Settings.LOGGER.info(" Street from String:" + currentLine
-				+ " was created correctly");
+		StreetField result = new StreetField(price, name, redemptionOfMortage, mortage, rent[0], rent[1], rent[2],
+				rent[3], rent[4], rent[5], priceHouse, position, color);
+		Settings.LOGGER.info(" Street from String:" + currentLine + " was created correctly");
 
 		return result;
 	}
