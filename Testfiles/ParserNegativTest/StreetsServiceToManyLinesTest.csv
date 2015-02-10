@@ -1,0 +1,23 @@
+color;Street;Price;PriceHouses;Rent;Rent1House;Rent2House;Rent3House;Rent4House;RentHotel;Mortage;RedemptionOfMortgage;Position
+black;Badstraße;60;50;2;10;30;90;160;250;30;33;1
+black;Turmstraße;60;50;4;20;60;180;320;450;30;33;3
+cyan;Chausseestraße;100;50;6;30;90;270;400;550;50;55;6
+cyan;Elisenstraße;100;50;6;30;90;270;400;550;50;55;8
+cyan;Poststraße;120;50;8;40;100;300;450;600;60;66;9
+magenta;Seestraße;140;100;10;50;150;450;625;750;70;77;11
+magenta;Hafenstraße;140;100;10;50;150;450;625;750;70;77;13
+magenta;Neue Straße;160;100;12;60;180;500;700;900;80;88;14
+orange;Münchener Straße;180;100;14;70;200;550;750;950;90;99;16
+orange;Wiener Straße;180;100;14;70;200;550;750;950;90;99;18
+orange;Berliner Straße;200;100;16;80;220;600;800;1000;100;110;19
+red;Theaterstraße;220;150;18;90;250;700;875;1050;110;121;21
+red;Museumstraße;220;150;18;90;250;700;875;1050;110;121;23
+red;Opernplatz;240;150;20;100;300;750;925;1100;120;132;24
+yellow;Lessingstraße;260;150;22;110;330;800;975;1150;130;143;26
+yellow;Schillerstraße;260;150;22;110;330;800;975;1150;130;143;27
+yellow;Goethestraße;280;150;24;120;360;850;1025;1200;140;154;29
+green;Rathausplatz;300;200;26;130;390;900;1100;1275;150;165;31
+green;Hauptstraße;300;200;26;130;390;900;1100;1275;150;165;32
+green;Bahnhofstraße;320;200;28;150;450;1000;1200;1400;160;176;34
+blue;Parkstraße;350;200;35;175;500;1100;1300;1500;175;193;37
+blue;Schlossallee;400;200;50;200;600;1400;1700;2000;200;220;39
